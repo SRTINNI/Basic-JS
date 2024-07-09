@@ -1,0 +1,20 @@
+project-folder/
+│
+├── js/
+│   ├── arithmetic_operations.js
+│   ├── button_text_change.js
+│   ├── form_validation.js
+│   ├── list_manipulation.js
+│   ├── slideshow.js
+│   └── basic_form_validation.js
+│
+├── html/
+│   ├── index.html
+│   ├── button_text_change.html
+│   ├── form_validation.html
+│   ├── list_manipulation.html
+│   ├── slideshow.html
+│   └── basic_form_validation.html
+│
+└── css/
+    └── styles.css

@@ -1,0 +1,10 @@
+Weather app
+Recipe finder app
+Currency Converter
+Todo List with Local Storage
+Quiz App
+Photo Gallery with Filters
+Chat Application
+Music Player
+Expense Tracker
+Pomodoro Timer
